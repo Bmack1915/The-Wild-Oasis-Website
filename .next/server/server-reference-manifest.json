@@ -1,0 +1,78 @@
+{
+  "node": {
+    "197c4b5b70f1629c95f6702a68da7e20e49e55a9": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "1a49241c50b74efdf43e20e41fe869e29ffaa8fa": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "2b0b141f991555029d8db3a3d516ff830ac41b63": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "687a6aaca275c59ef6df6dfdcfe6124a94a31663": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "e44ceeac5495d5fc3d48c2b73a4a66b42be8106c": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "f5396d47b6d7c6361fb6ec56566190d77a431ef1": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmacke%2FProjects%2FWeb%2FReact%20Course%20Udemy%2Fultimate-react-course-main%2F21-the-wild-oasis-website%2Ffinal-4-after-interactions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22deleteReservation%22%2C%22updateReservation%22%2C%22signInAction%22%2C%22createBooking%22%2C%22signOutAction%22%2C%22updateProfile%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "9eMvpp9STYjhruwxJjYBKRwHnFJF6oR3CpoAcmaEoBk="
+}
